@@ -1868,7 +1868,7 @@
       &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="0" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
         &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
       &lt;/Style&gt;
-      &lt;Span Text="The Peace &amp;amp; Play team is part of this effort. Its members are from all over their world. They met to think about how they could best contribute. One idea was to build on their experience with inclusive local programmes for children and create a space where children from all regions could meet and interact from an early age. &amp;#xA;"&gt;
+      &lt;Span Text="The Peace &amp;amp; Play team is part of this effort. Its members are from all over their world. They met to think about how they could best contribute. One idea was to build on their experience with inclusive local programs for children and create a space where children from all regions could meet and interact from an early age. &amp;#xA;"&gt;
         &lt;Style FontIsBold="True" FontIsItalic="False" /&gt;
       &lt;/Span&gt;
     &lt;/Block&gt;
@@ -1876,7 +1876,7 @@
       &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="0" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
         &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
       &lt;/Style&gt;
-      &lt;Span Text="After consulting with groups of parents and children involved in their programmes, Play &amp;amp; Peace decided to go ahead with this as a pilot project. They hope it will help strengthen global peace and cooperation. We meet them as they start discussing their vision for this play space. "&gt;
+      &lt;Span Text="After consulting with groups of parents and children involved in their programs, Play &amp;amp; Peace decided to go ahead with this as a pilot project. They hope it will help strengthen global peace and cooperation. We meet them as they start discussing their vision for this play space. "&gt;
         &lt;Style FontIsBold="True" FontIsItalic="False" /&gt;
       &lt;/Span&gt;
     &lt;/Block&gt;
@@ -1904,7 +1904,7 @@
       &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="0" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="6" SpacingAfter="0"&gt;
         &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
       &lt;/Style&gt;
-      &lt;Span Text="Margella is a Peace &amp;amp; Play volunteer who has helped with their programmes in her city.&amp;#xA;"&gt;
+      &lt;Span Text="Margella is a Peace &amp;amp; Play volunteer who has helped with their programs in her city.&amp;#xA;"&gt;
         &lt;Style FontIsBold="True" FontIsItalic="False" /&gt;
       &lt;/Span&gt;
     &lt;/Block&gt;
@@ -2062,7 +2062,7 @@
       &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
         &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
       &lt;/Style&gt;
-      &lt;Span Text="Do you give Spur Change and its affiliates consent to use your name, email, and/or place of residence for any communication and programming purposes with respect to this programme?"&gt;
+      &lt;Span Text="Do you give Spur Change and its affiliates consent to use your name, email, and/or place of residence for any communication and programming purposes with respect to this program?"&gt;
         &lt;Style ForegroundColor="dk1,00" LinkColor="dk1,00" /&gt;
       &lt;/Span&gt;
     &lt;/Block&gt;
@@ -2082,7 +2082,7 @@
       &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="6"&gt;
         &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
       &lt;/Style&gt;
-      &lt;Span Text="Results-based management, or RBM, is a management approach designed to improve project and programme design, implementation, monitoring, learning, reporting, and accountability in any project or programme in any sector or sphere.&amp;#xA;" /&gt;
+      &lt;Span Text="Results-based management, or RBM, is a management approach designed to improve project and program design, implementation, monitoring, learning, reporting, and accountability in any project or program in any sector or sphere.&amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="6"&gt;
@@ -2260,7 +2260,7 @@
           &lt;BulletPicture Size="0x0" /&gt;
         &lt;/ListStyle&gt;
       &lt;/Style&gt;
-      &lt;Span Text="Focus on the big picture of what you want to achieve through your project or programme and its overall hows and whys, and&amp;#xA;" /&gt;
+      &lt;Span Text="Focus on the big picture of what you want to achieve through your project or program and its overall hows and whys, and&amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style FlowDirection="LeftToRight" LeadingMargin="13" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
@@ -2482,11 +2482,11 @@
       &lt;Span Text="assumptions"&gt;
         &lt;Style FontIsBold="True" /&gt;
       &lt;/Span&gt;
-      &lt;Span Text=" that underpin your programme choices. You also need to think about " /&gt;
+      &lt;Span Text=" that underpin your program choices. You also need to think about " /&gt;
       &lt;Span Text="risks"&gt;
         &lt;Style FontIsBold="True" /&gt;
       &lt;/Span&gt;
-      &lt;Span Text=" that could threaten the success of your programme.&amp;#xA;" /&gt;
+      &lt;Span Text=" that could threaten the success of your program.&amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
@@ -2707,7 +2707,7 @@
       &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
         &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
       &lt;/Style&gt;
-      &lt;Span Text="Take some notes here about what you remember from this quest and how you are going to implement them into your project or programme. " /&gt;
+      &lt;Span Text="Take some notes here about what you remember from this quest and how you are going to implement them into your project or program. " /&gt;
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
@@ -2860,7 +2860,7 @@
           &lt;BulletPicture Size="0x0" /&gt;
         &lt;/ListStyle&gt;
       &lt;/Style&gt;
-      &lt;Span Text="In RBM, result statements express what a programme or project is supposed to accomplish or what it contributes to. &amp;#xA;" /&gt;
+      &lt;Span Text="In RBM, result statements express what a program or project is supposed to accomplish or what it contributes to. &amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="1" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
@@ -2948,7 +2948,7 @@
           &lt;BulletPicture Size="0x0" /&gt;
         &lt;/ListStyle&gt;
       &lt;/Style&gt;
-      &lt;Span Text="Of course, we expect our projects or programmes to lead to positive social change. In RBM, we express these expected positive changes in result statements. &amp;#xA;" /&gt;
+      &lt;Span Text="Of course, we expect our projects or programs to lead to positive social change. In RBM, we express these expected positive changes in result statements. &amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="1" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
@@ -2990,7 +2990,7 @@
           &lt;BulletPicture Size="0x0" /&gt;
         &lt;/ListStyle&gt;
       &lt;/Style&gt;
-      &lt;Span Text="The way we express project or programme results is by describing the type and “direction” of the desired change. We write the statements so they start with one of the six words listed here.&amp;#xA;"&gt;
+      &lt;Span Text="The way we express project or program results is by describing the type and “direction” of the desired change. We write the statements so they start with one of the six words listed here.&amp;#xA;"&gt;
         &lt;Style FontIsBold="False" /&gt;
       &lt;/Span&gt;
     &lt;/Block&gt;
@@ -3379,7 +3379,7 @@
           &lt;BulletPicture Size="0x0" /&gt;
         &lt;/ListStyle&gt;
       &lt;/Style&gt;
-      &lt;Span Text="An impact statement expresses the long-term desired result produced by a development intervention. It defines the overall “big picture” need or problem being addressed – the justification or the “why” of the project, programme, or intervention. It is the larger change or goal that is expected or hoped to occur, the ultimate sustainable change. &amp;#xA;"&gt;
+      &lt;Span Text="An impact statement expresses the long-term desired result produced by a development intervention. It defines the overall “big picture” need or problem being addressed – the justification or the “why” of the project, program, or intervention. It is the larger change or goal that is expected or hoped to occur, the ultimate sustainable change. &amp;#xA;"&gt;
         &lt;Style FontIsBold="False" /&gt;
       &lt;/Span&gt;
     &lt;/Block&gt;
@@ -3425,7 +3425,7 @@
           &lt;BulletPicture Size="0x0" /&gt;
         &lt;/ListStyle&gt;
       &lt;/Style&gt;
-      &lt;Span Text="Many factors and stakeholders may influence change at this level, so your project may contribute to rather than directly produce this overall long-term goal. Monitoring of results at the impact level normally extends beyond the ‘life’ of the project or programme itself."&gt;
+      &lt;Span Text="Many factors and stakeholders may influence change at this level, so your project may contribute to rather than directly produce this overall long-term goal. Monitoring of results at the impact level normally extends beyond the ‘life’ of the project or program itself."&gt;
         &lt;Style FontIsBold="False" /&gt;
       &lt;/Span&gt;
       &lt;Span Text="&amp;#xA;"&gt;
@@ -3541,7 +3541,7 @@
           &lt;BulletPicture Size="0x0" /&gt;
         &lt;/ListStyle&gt;
       &lt;/Style&gt;
-      &lt;Span Text="Outputs are the immediate results of a completed activity or set of project or programme activities. &amp;#xA;"&gt;
+      &lt;Span Text="Outputs are the immediate results of a completed activity or set of project or program activities. &amp;#xA;"&gt;
         &lt;Style FontIsBold="False" /&gt;
       &lt;/Span&gt;
     &lt;/Block&gt;
@@ -3706,7 +3706,7 @@
         &lt;Style FontIsBold="True" /&gt;
       &lt;/Span&gt;
       &lt;Span Text="occur as a more or less" /&gt;
-      &lt;Span Text=" direct result of programme outputs"&gt;
+      &lt;Span Text=" direct result of program outputs"&gt;
         &lt;Style FontIsBold="True" /&gt;
       &lt;/Span&gt;
       &lt;Span Text=" – and " /&gt;
@@ -3952,7 +3952,7 @@
           &lt;BulletPicture Size="0x0" /&gt;
         &lt;/ListStyle&gt;
       &lt;/Style&gt;
-      &lt;Span Text="There are different ways of defining the approach to gender in a project or programme. A continuum of gender approaches, which may overlap in practice, can be defined as:&amp;#xA;" /&gt;
+      &lt;Span Text="There are different ways of defining the approach to gender in a project or program. A continuum of gender approaches, which may overlap in practice, can be defined as:&amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style FlowDirection="LeftToRight" LeadingMargin="72" TrailingMargin="0" FirstLineMargin="36" Justification="Left" ListLevel="1" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
@@ -4505,7 +4505,7 @@
       &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
         &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
       &lt;/Style&gt;
-      &lt;Span Text="Take some notes here about what you remember from this quest and how you are going to implement them into your project or programme. " /&gt;
+      &lt;Span Text="Take some notes here about what you remember from this quest and how you are going to implement them into your project or program. " /&gt;
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
@@ -6007,7 +6007,7 @@
       &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Multiple" LineSpacing="23" SpacingBefore="6" SpacingAfter="9"&gt;
         &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
       &lt;/Style&gt;
-      &lt;Span Text="Take some notes here about what you remember from this quest and how you are going to implement them into your project or programme. " /&gt;
+      &lt;Span Text="Take some notes here about what you remember from this quest and how you are going to implement them into your project or program. " /&gt;
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
@@ -6509,7 +6509,7 @@
       &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
         &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
       &lt;/Style&gt;
-      &lt;Span Text="Take some notes here about what you remember from this quest and how you are going to implement them into your project or programme." /&gt;
+      &lt;Span Text="Take some notes here about what you remember from this quest and how you are going to implement them into your project or program." /&gt;
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
@@ -6944,7 +6944,7 @@
           &lt;BulletPicture Size="0x0" /&gt;
         &lt;/ListStyle&gt;
       &lt;/Style&gt;
-      &lt;Span Text="What have we learned about matters such as: the institutional, cultural, and other contexts where we are carrying out our activities, the programme sector or approach (community participation, gender equality, water and sanitation, health services, etc.), success factors, or the monitoring process itself? &amp;#xA;" /&gt;
+      &lt;Span Text="What have we learned about matters such as: the institutional, cultural, and other contexts where we are carrying out our activities, the program sector or approach (community participation, gender equality, water and sanitation, health services, etc.), success factors, or the monitoring process itself? &amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style FlowDirection="LeftToRight" LeadingMargin="13" TrailingMargin="0" FirstLineMargin="0" Justification="Left" ListLevel="1" LineSpacingRule="Multiple" LineSpacing="23" SpacingBefore="6" SpacingAfter="9"&gt;
@@ -7026,7 +7026,7 @@
       &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
         &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
       &lt;/Style&gt;
-      &lt;Span Text="Take some notes here about what you remember from this quest and how you are going to implement them into your project or programme. " /&gt;
+      &lt;Span Text="Take some notes here about what you remember from this quest and how you are going to implement them into your project or program. " /&gt;
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
