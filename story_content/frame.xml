@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxabnsnfns10111111101" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="unified" themeAccentColor="0x006063">
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxabnsnfns10110111101" textdirection="ltr" textengine="DirectWrite" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="unified" themeAccentColor="0x006063">
   <layouts>
-    <layout name="npnxnanbsnfns10111111101" font="Lato" controllayout="npnxnanbsnfns10111111101" colorscheme="pxabnsnfns10111111101" string_table="pxabnsnfns10111111101" />
-    <layout name="pxabnsnfns10111111101" font="Lato" controllayout="pxabnsnfns10111111101" colorscheme="pxabnsnfns10111111101" string_table="pxabnsnfns10111111101" />
-    <layout name="npxnabnsnfns10111111101" font="Lato" controllayout="npxnabnsnfns10111111101" colorscheme="pxabnsnfns10111111101" string_table="pxabnsnfns10111111101" />
-    <layout name="npnxnanbnsnfns10111111101" font="Lato" controllayout="npnxnanbnsnfns10111111101" colorscheme="pxabnsnfns10111111101" string_table="pxabnsnfns10111111101" />
-    <layout name="pxabnsnfns10111111100" font="Lato" controllayout="pxabnsnfns10111111100" colorscheme="pxabnsnfns10111111101" string_table="pxabnsnfns10111111101" />
-    <layout name="pxabnsnfns10110111101" font="Lato" controllayout="pxabnsnfns10110111101" colorscheme="pxabnsnfns10111111101" string_table="pxabnsnfns10111111101" />
-    <layout name="pxabnsnfns00001111101" font="Lato" controllayout="pxabnsnfns00001111101" colorscheme="pxabnsnfns10111111101" string_table="pxabnsnfns10111111101" />
-    <layout name="pxabnsnfns00001010101" font="Lato" controllayout="pxabnsnfns00001010101" colorscheme="pxabnsnfns10111111101" string_table="pxabnsnfns10111111101" />
+    <layout name="npnxnanbsnfns10111111101" font="Lato" controllayout="npnxnanbsnfns10111111101" colorscheme="pxabnsnfns10110111101" string_table="pxabnsnfns10110111101" />
+    <layout name="pxabnsnfns10111111101" font="Lato" controllayout="pxabnsnfns10111111101" colorscheme="pxabnsnfns10110111101" string_table="pxabnsnfns10110111101" />
+    <layout name="npxnabnsnfns10111111101" font="Lato" controllayout="npxnabnsnfns10111111101" colorscheme="pxabnsnfns10110111101" string_table="pxabnsnfns10110111101" />
+    <layout name="npnxnanbnsnfns10111111101" font="Lato" controllayout="npnxnanbnsnfns10111111101" colorscheme="pxabnsnfns10110111101" string_table="pxabnsnfns10110111101" />
+    <layout name="pxabnsnfns10111111100" font="Lato" controllayout="pxabnsnfns10111111100" colorscheme="pxabnsnfns10110111101" string_table="pxabnsnfns10110111101" />
+    <layout name="pxabnsnfns10110111101" font="Lato" controllayout="pxabnsnfns10110111101" colorscheme="pxabnsnfns10110111101" string_table="pxabnsnfns10110111101" />
+    <layout name="pxabnsnfns00001111101" font="Lato" controllayout="pxabnsnfns00001111101" colorscheme="pxabnsnfns10110111101" string_table="pxabnsnfns10110111101" />
+    <layout name="pxabnsnfns00001010101" font="Lato" controllayout="pxabnsnfns00001010101" colorscheme="pxabnsnfns10110111101" string_table="pxabnsnfns10110111101" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -30,13 +30,6 @@
           </option>
           <optionlist name="tabs">
             <listitems>
-              <listitem name="customlink" value="true" group="linkleft">
-                <properties>
-                  <property name="title" value="Home" />
-                  <property name="data" value="5l9u53KQCQ4" />
-                  <property name="ignoreSlideLock" value="true" />
-                </properties>
-              </listitem>
               <listitem name="outline" value="true" group="linkleft" />
               <listitem name="glossary" value="true" group="linkleft" />
               <listitem name="resources" value="true" group="linkright" />
@@ -286,7 +279,7 @@
     </control_layout>
   </control_layouts>
   <colorschemes>
-    <colorscheme name="pxabnsnfns10111111101">
+    <colorscheme name="pxabnsnfns10110111101">
       <color_group name="accessibility">
         <group_colors>
           <color name="focus_rect">
@@ -303,7 +296,7 @@
           <color name="htmlpage_bg_color">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0xFBFBFB" alpha="100" stop="0" />
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -321,7 +314,7 @@
           <color name="link_text">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x7D7D7D" alpha="100" stop="0" />
+                <color rgb="0x585858" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -402,7 +395,7 @@
           <color name="bio_text">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x7D7D7D" alpha="100" stop="0" />
+                <color rgb="0x585858" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -441,7 +434,7 @@
           <color name="text">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x7D7D7D" alpha="100" stop="0" />
+                <color rgb="0x585858" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -452,7 +445,14 @@
           <color name="text">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -466,7 +466,7 @@
           <color name="bg">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -491,6 +491,27 @@
               </colors>
             </fill>
           </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
         </group_colors>
       </color_group>
       <color_group name="editor">
@@ -505,7 +526,7 @@
           <color name="html_text">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x545454" alpha="100" stop="0" />
+                <color rgb="0x464646" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -563,51 +584,42 @@
             </fill>
           </color>
           <color name="selected_text">
-            <fill type="linear" rotation="90">
-              <colors>
-                <color rgb="0x5B6264" alpha="100" stop="0" />
-              </colors>
-            </fill>
+            <fill type="linear" rotation="90" />
           </color>
           <color name="shadow">
-            <fill type="linear" rotation="90">
-              <colors>
-                <color rgb="0x000000" alpha="0" stop="0" />
-              </colors>
-            </fill>
+            <fill type="linear" rotation="90" />
           </color>
           <color name="selected">
-            <fill type="linear" rotation="90">
-              <colors>
-                <color rgb="0xEAEAEA" alpha="100" stop="0" />
-              </colors>
-            </fill>
+            <fill type="linear" rotation="90" />
           </color>
           <color name="text">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x838282" alpha="100" stop="0" />
+                <color rgb="0x464646" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
           <color name="viewed">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0xAAAAAA" alpha="100" stop="0" />
+                <color rgb="0x464646" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
           <color name="hover">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0xE8E8E8" alpha="100" stop="0" />
+                <color rgb="0x000000" alpha="5" stop="0" />
               </colors>
             </fill>
           </color>
           <color name="lines">
+            <fill type="linear" rotation="90" />
+          </color>
+          <color name="selected_hover_border">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x000000" alpha="0" stop="0" />
+                <color rgb="0x8E8F8E" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -632,14 +644,14 @@
           <color name="text">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x838282" alpha="100" stop="0" />
+                <color rgb="0x464646" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
           <color name="hover">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x8C8C8C" alpha="100" stop="0" />
+                <color rgb="0x464646" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -680,6 +692,17 @@
           </color>
         </group_colors>
       </color_group>
+      <color_group name="notes">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
       <color_group name="resource">
         <group_colors>
           <color name="separator">
@@ -692,7 +715,7 @@
           <color name="hover">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0xE8E8E8" alpha="100" stop="0" />
+                <color rgb="0x000000" alpha="5" stop="0" />
               </colors>
             </fill>
           </color>
@@ -781,7 +804,7 @@
           <color name="text">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x7D7D7D" alpha="100" stop="0" />
+                <color rgb="0x585858" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -802,7 +825,7 @@
           <color name="bottom_border">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0xDFDFDF" alpha="100" stop="0" />
+                <color rgb="0x8E8F8E" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -820,14 +843,14 @@
           <color name="seek_position">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0xFFFFFF" alpha="50" stop="0" />
+                <color rgb="0xFFFFFF" alpha="60" stop="0" />
               </colors>
             </fill>
           </color>
           <color name="seek_bg">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0xDCDCDC" alpha="100" stop="0" />
+                <color rgb="0x8E8F8E" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -887,7 +910,7 @@
           <color name="search_text">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x8E8E8E" alpha="100" stop="0" />
+                <color rgb="0x464646" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -908,7 +931,7 @@
           <color name="icon">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x3F4548" alpha="100" stop="0" />
+                <color rgb="0x585858" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -919,10 +942,17 @@
               </colors>
             </fill>
           </color>
+          <color name="outer_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8E8F8E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
           <color name="bg">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0xEAEAEA" alpha="100" stop="0" />
+                <color rgb="0x000000" alpha="5" stop="0" />
               </colors>
             </fill>
           </color>
@@ -982,14 +1012,14 @@
           <color name="button_bg">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0xC4C4C4" alpha="100" stop="0" />
+                <color rgb="0x585858" alpha="80" stop="0" />
               </colors>
             </fill>
           </color>
           <color name="button_bg_hover">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0xADADAD" alpha="100" stop="0" />
+                <color rgb="0x585858" alpha="80" stop="0" />
               </colors>
             </fill>
           </color>
@@ -1021,14 +1051,14 @@
           <color name="bg">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0xFBFBFB" alpha="100" stop="0" />
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
           <color name="generic_shadow">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x000000" alpha="20" stop="0" />
+                <color rgb="0x373737" alpha="77" stop="0" />
               </colors>
             </fill>
           </color>
@@ -1038,6 +1068,13 @@
                 <color rgb="0x000000" alpha="0" stop="0" />
                 <color rgb="0x000000" alpha="1" stop="89" />
                 <color rgb="0x000000" alpha="6" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -1055,7 +1092,7 @@
           <color name="bg">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
               </colors>
             </fill>
           </color>
@@ -1105,7 +1142,7 @@
           <color name="btn_icon_color">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x7D7D7D" alpha="100" stop="0" />
+                <color rgb="0x585858" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -1119,7 +1156,7 @@
           <color name="btn_text">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x7D7D7D" alpha="100" stop="0" />
+                <color rgb="0x585858" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -1158,6 +1195,20 @@
               </colors>
             </fill>
           </color>
+          <color name="btn_on_dark_background">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBABBBA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_on_dark_background_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8F8F8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
         </group_colors>
       </color_group>
       <color_group name="base">
@@ -1169,10 +1220,17 @@
               </colors>
             </fill>
           </color>
+          <color name="brandhighlight_secondary">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x006063" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
           <color name="text">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x7D7D7D" alpha="100" stop="0" />
+                <color rgb="0x585858" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -1193,7 +1251,7 @@
           <color name="diva">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x555555" alpha="100" stop="0" />
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -1207,21 +1265,21 @@
           <color name="menu_shade">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0xF7F7F7" alpha="100" stop="0" />
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
           <color name="border">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x000000" alpha="0" stop="0" />
+                <color rgb="0xFFFFFF" alpha="0" stop="0" />
               </colors>
             </fill>
           </color>
           <color name="bg">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0xFBFBFB" alpha="100" stop="0" />
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -1235,7 +1293,95 @@
           <color name="overlay_message">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0x000000" alpha="30" stop="0" />
+                <color rgb="0x000000" alpha="85" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="5" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8E8F8E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8E8F8E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="control_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8E8F8E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="settings">
+        <group_colors>
+          <color name="panel_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="panel_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="35" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="toggle_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x919191" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="toggle_thumb_off">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x585858" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="toggle_track_on">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x006063" alpha="30" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="toggle_track_off">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="toggle_label">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x464646" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="settings_border_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -1246,7 +1392,7 @@
           <color name="panel_bg">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -1281,7 +1427,7 @@
           <color name="slider_bg">
             <fill type="linear" rotation="0">
               <colors>
-                <color rgb="0xDCDCDC" alpha="100" stop="0" />
+                <color rgb="0x8E8F8E" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -1292,49 +1438,10 @@
               </colors>
             </fill>
           </color>
-        </group_colors>
-      </color_group>
-      <color_group name="settings">
-        <group_colors>
-          <color name="panel_bg">
+          <color name="volume_border_color">
             <fill type="linear" rotation="90">
               <colors>
-                <color rgb="0xFFFFFF" alpha="100" stop="0" />
-              </colors>
-            </fill>
-          </color>
-          <color name="panel_shadow">
-            <fill type="linear" rotation="90">
-              <colors>
-                <color rgb="0x000000" alpha="20" stop="0" />
-              </colors>
-            </fill>
-          </color>
-          <color name="toggle_border">
-            <fill type="linear" rotation="90">
-              <colors>
-                <color rgb="0x919191" alpha="100" stop="0" />
-              </colors>
-            </fill>
-          </color>
-          <color name="toggle_thumb_off">
-            <fill type="linear" rotation="90">
-              <colors>
-                <color rgb="0x585858" alpha="100" stop="0" />
-              </colors>
-            </fill>
-          </color>
-          <color name="toggle_track_on">
-            <fill type="linear" rotation="90">
-              <colors>
-                <color rgb="0xFFFFFF" alpha="100" stop="0" />
-              </colors>
-            </fill>
-          </color>
-          <color name="toggle_track_off">
-            <fill type="linear" rotation="90">
-              <colors>
-                <color rgb="0xE8E8E8" alpha="100" stop="0" />
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
               </colors>
             </fill>
           </color>
@@ -1343,12 +1450,14 @@
     </colorscheme>
   </colorschemes>
   <string_tables>
-    <string_table name="pxabnsnfns10111111101">
-      <string id="three_image_of">of</string>
+    <string_table name="pxabnsnfns10110111101">
       <string id="three_image_items">items</string>
-      <string id="three_image_item">item</string>
       <string id="three_image_viewed">viewed</string>
+      <string id="three_image_of">of</string>
+      <string id="three_image_item">item</string>
       <string id="accessible_text">Accessible text</string>
+      <string id="keyboardshortcuts_lower">Keyboard shortcuts</string>
+      <string id="zoom_to_fit">Zoom to fit</string>
       <string id="acc_active">active</string>
       <string id="alt_key">Alt</string>
       <string id="check_include">Check to include</string>
@@ -1379,7 +1488,6 @@
       <string id="replay_shortcut">Replay Slide</string>
       <string id="shortcut">Shortcut</string>
       <string id="submit_shortcut">Submit Slide</string>
-      <string id="keyboardshortcuts_lower">Keyboard shortcuts</string>
       <string id="acctext_shortcut">Toggle accessible text</string>
       <string id="closedcaptions_shortcut">Toggle closed captions</string>
       <string id="togglezoom">Switch zoom modes</string>
@@ -1413,6 +1521,7 @@
       <string id="acc_search_input">search</string>
       <string id="search_toggle">Search</string>
       <string id="sidebar_toggle">Sidebar Toggle</string>
+      <string id="acc_slide_progress">slide progress</string>
       <string id="desktop_start">Start Course</string>
       <string id="mobile_start">Start Course</string>
       <string id="acc_visited">visited</string>
@@ -1431,7 +1540,6 @@
       <string id="submit_tip">Submit</string>
       <string id="unmute_tip">Unmute</string>
       <string id="acc_volume">volume</string>
-      <string id="zoom_to_fit">Zoom to fit</string>
     </string_table>
   </string_tables>
   <fonts>
@@ -1440,7 +1548,7 @@
         <file bold="true" italic="false" />
         <file bold="false" italic="false" />
         <file bold="false" italic="true" />
-        <file bold="false" italic="true" />
+        <file bold="true" italic="true" />
       </files>
     </font>
     <font name="Arial">
@@ -1458,6 +1566,7 @@
   <nav_data>
     <outline>
       <links>
+        <slidelink slideid="_player.6TVA7NSwrbc.6ow6mMEKsWH" displaytext="Home" expand="false" type="slide" />
         <slidelink slideid="_player.5pV5iO8BCdh" displaytext="Introduction" expand="false" type="slide">
           <links>
             <slidelink slideid="_player.5pV5iO8BCdh.6UhzuIbwQJu" displaytext="Guided Tour" expand="false" type="slide" />
@@ -1472,7 +1581,7 @@
         <slidelink slideid="_player.6YUUrHrj90t" displaytext="Quest_1: Planning Strategically &amp;amp; Taking a Participatory Approach" expand="false" type="slide">
           <links>
             <slidelink slideid="_player.6YUUrHrj90t.6I0UKU2rndo" displaytext="Peace &amp;amp; Play: Setting the Vision" expand="false" type="slide" />
-            <slidelink slideid="_player.6YUUrHrj90t.6JKFE6crC7C" displaytext="Module Objectives " expand="false" type="slide" />
+            <slidelink slideid="_player.6YUUrHrj90t.6JKFE6crC7C" displaytext="Quest Objectives " expand="false" type="slide" />
             <slidelink slideid="_player.6YUUrHrj90t.5uxHgoPHAF9" displaytext="Creating a Shared Vision Starts with Involving Stakeholders" expand="false" type="slide" />
             <slidelink slideid="_player.6YUUrHrj90t.6iLe7LjLcsL" displaytext="The Theory of Change " expand="false" type="slide" />
             <slidelink slideid="_player.6YUUrHrj90t.632kzgWByTu" displaytext="Your Project" expand="false" type="slide">
@@ -1486,10 +1595,10 @@
         <slidelink slideid="_player.6VSuH1Z1HNf" displaytext="Quest_2: Organizing the Desired Results into a Logic Model" expand="false" type="slide">
           <links>
             <slidelink slideid="_player.6VSuH1Z1HNf.5WyXX5LFa1B" displaytext="Peace &amp;amp; Play: Focus on the Results" expand="false" type="slide" />
-            <slidelink slideid="_player.6VSuH1Z1HNf.69b85HUB0HI" displaytext="Module Objectives " expand="false" type="slide" />
+            <slidelink slideid="_player.6VSuH1Z1HNf.69b85HUB0HI" displaytext="Quest Objectives " expand="false" type="slide" />
             <slidelink slideid="_player.6VSuH1Z1HNf.6fty1bQEpky" displaytext="What are Results? " expand="false" type="slide" />
             <slidelink slideid="_player.6VSuH1Z1HNf.5bdrQlMNU7E" displaytext="Results are SMART " expand="false" type="slide" />
-            <slidelink slideid="_player.6VSuH1Z1HNf" displaytext="The Different Levels of Results " expand="false" type="slide">
+            <slidelink slideid="_player.69C9eCTlaRa" displaytext="The Different Levels of Results " expand="false" type="slide">
               <links>
                 <slidelink slideid="_player.6VSuH1Z1HNf.649xIkojuKe" displaytext="Impact, Outcomes and Outputs" expand="false" type="slide" />
                 <slidelink slideid="_player.6VSuH1Z1HNf.6RdgA56HDAM" displaytext="Additional Outcome Levels: Immediate and Intermediate Outcomes " expand="false" type="slide" />
@@ -1498,7 +1607,7 @@
                 <slidelink slideid="_player.6VSuH1Z1HNf.5kjcXrFceWF" displaytext="Practising Identifying Impact, Outcomes, and Outputs statements " expand="false" type="slide" />
               </links>
             </slidelink>
-            <slidelink slideid="_player.6VSuH1Z1HNf" displaytext="Tool: The Logic Model " expand="false" type="slide">
+            <slidelink slideid="_player.6o8L9eWw0Cr" displaytext="Tool: The Logic Model " expand="false" type="slide">
               <links>
                 <slidelink slideid="_player.6VSuH1Z1HNf.6CR35JtznCW" displaytext="Definition" expand="false" type="slide" />
                 <slidelink slideid="_player.6VSuH1Z1HNf.5hYS5lDnwaU" displaytext="How to Build a Logic Model " expand="false" type="slide" />
@@ -1516,7 +1625,7 @@
         <slidelink slideid="_player.5v2HzSgjNf6" displaytext="Quest_3: Monitoring for Results" expand="false" type="slide">
           <links>
             <slidelink slideid="_player.5v2HzSgjNf6.5oFPfP3Ez6x" displaytext="Peace &amp;amp; Play: Checks In" expand="false" type="slide" />
-            <slidelink slideid="_player.5v2HzSgjNf6.6mG5Hyij7r0" displaytext="Module Objectives " expand="false" type="slide" />
+            <slidelink slideid="_player.5v2HzSgjNf6.6mG5Hyij7r0" displaytext="Quest Objectives " expand="false" type="slide" />
             <slidelink slideid="_player.5v2HzSgjNf6.5dEDdACuRN2" displaytext="Differences Between Monitoring and Evaluation" expand="false" type="slide" />
             <slidelink slideid="_player.5v2HzSgjNf6.6r7G2AYUslo" displaytext="The Performance Measurement Framework" expand="false" type="slide">
               <links>
@@ -1525,7 +1634,7 @@
                 <slidelink slideid="_player.5v2HzSgjNf6.6DcA8234fTN" displaytext="Benchmarking Indicators" expand="false" type="slide" />
                 <slidelink slideid="_player.5v2HzSgjNf6.6DXggkBwXTv" displaytext="Disaggregating Indicators" expand="false" type="slide" />
                 <slidelink slideid="_player.5v2HzSgjNf6.60XerIWM8Xy" displaytext="Indicators for Each Results Level" expand="false" type="slide" />
-                <slidelink slideid="_player.5v2HzSgjNf6" displaytext="Developing Indicators" expand="false" type="slide">
+                <slidelink slideid="_player.5X9XMtUkGKD" displaytext="Developing Indicators" expand="false" type="slide">
                   <links>
                     <slidelink slideid="_player.5v2HzSgjNf6.67iK3snG1JY" displaytext="Anatomy of an Indicator" expand="false" type="slide" />
                     <slidelink slideid="_player.5v2HzSgjNf6.6GRvLSfaqiV" displaytext="The Steps" expand="false" type="slide" />
@@ -1560,7 +1669,7 @@
         <slidelink slideid="_player.5n73E4SyioZ" displaytext="Quest_4: Reporting" expand="false" type="slide">
           <links>
             <slidelink slideid="_player.5n73E4SyioZ.63KqYajEVYr" displaytext="Peace &amp;amp; Play: What Should we Report?" expand="false" type="slide" />
-            <slidelink slideid="_player.5n73E4SyioZ.6b2XRZxVuKB" displaytext="Module Objectives " expand="false" type="slide" />
+            <slidelink slideid="_player.5n73E4SyioZ.6b2XRZxVuKB" displaytext="Quest Objectives " expand="false" type="slide" />
             <slidelink slideid="_player.5n73E4SyioZ.5fjVurluJUK" displaytext="What is Results-Based Reporting" expand="false" type="slide" />
             <slidelink slideid="_player.5n73E4SyioZ.5kRIoLa0N9H" displaytext="Reporting: Guiding Questions" expand="false" type="slide" />
             <slidelink slideid="_player.5n73E4SyioZ.5xrX4VDVLYq" displaytext="Zoom in on the Elements of a Report" expand="false" type="slide" />
@@ -1582,7 +1691,7 @@
         <slidelink slideid="_player.6kk6Th8FANp" displaytext="Quest_5: Learning" expand="false" type="slide">
           <links>
             <slidelink slideid="_player.6kk6Th8FANp.6ahGMyOa14H" displaytext="Peace &amp;amp; Play: A Learning Review" expand="false" type="slide" />
-            <slidelink slideid="_player.6kk6Th8FANp.6Ot5ENF6RGA" displaytext="Module Objectives " expand="false" type="slide" />
+            <slidelink slideid="_player.6kk6Th8FANp.6Ot5ENF6RGA" displaytext="Quest Objectives " expand="false" type="slide" />
             <slidelink slideid="_player.6kk6Th8FANp.659RmxhfK8d" displaytext="When and Why Learning in RBM?" expand="false" type="slide" />
             <slidelink slideid="_player.6kk6Th8FANp.5ZWDOxaBTuM" displaytext="Learning Reviews" expand="false" type="slide" />
             <slidelink slideid="_player.6kk6Th8FANp.68F5ZDpl3Bu" displaytext="Your Project" expand="false" type="slide">
@@ -1597,7 +1706,7 @@
       </links>
     </outline>
   </nav_data>
-  <resource_data description="&lt;p align='left'&gt;&lt;font face='Lato' style='font-size: 11px;' size='11' color='#545454'&gt;Here are some interesting resources: &lt;/font&gt;&lt;/p&gt;">
+  <resource_data description="&lt;p align='left'&gt;&lt;font face='Lato' style='font-size: 11px;' size='11' color='#464646'&gt;Here are some interesting resources: &lt;/font&gt;&lt;/p&gt;">
     <resources>
       <resource url="https://www.unicef.org/thailand/media/3486/file/Result-based management handbook.pdf" image="story_content/url.png" title="Results-Based Management Handbook: Working Together for Children" />
       <resource url="https://www.international.gc.ca/world-monde/assets/pdfs/funding-financement/results_based_management-gestion_axee_resultats-guide-en.pdf" image="story_content/url.png" title="Results-Based Management for International Assistance Programming at Global Affairs Canada: A How-to Guide" />
@@ -1605,11 +1714,11 @@
       <resource url="https://spurchangeresource.ca/en/training/micro-lear" image="story_content/url.png" title="Baseline survey training" />
       <resource url="https://spurchangeresource.ca/en/training/national-training-making-data-collection-meaningful/" image="story_content/url.png" title="Data collection training" />
       <resource url="https://drive.google.com/file/d/1WAiEb-n0PzUP6DS7hIhZjKJc7CmBxCCl/view?usp=sharing" image="story_content/url.png" title="Peace &amp;amp; Play theory of change" />
-      <resource url="https://drive.google.com/file/d/1GS2U3-CqSd_WLjOFevKG66tS7t0wVk1B/view?usp=sharing" image="story_content/url.png" title="Peace &amp;amp; Play PMF" />
-      <resource url="https://drive.google.com/file/d/1HnPF-j696-L6Ncr3hsGiN_Ho5BfnHL2g/view?usp=sharing" image="story_content/url.png" title="Agroforestry PMF" />
+      <resource url="https://drive.google.com/file/d/1GS2U3-CqSd_WLjOFevKG66tS7t0wVk1B/view?usp=sharing" image="story_content/url.png" title="Peace &amp;amp; Play PMF (excerpt)" />
+      <resource url="https://drive.google.com/file/d/1Q_CglfB4YO3MXgn5EHzVruUqW53QEvJ0/view?usp=sharing" image="story_content/url.png" title="Agroforestry PMF" />
       <resource url="https://drive.google.com/file/d/1oQsoF3cHm8aYZjn5NEniOUpTGjpO6mKy/view?usp=sharing" image="story_content/url.png" title="Indicators checklists" />
-      <resource url="https://drive.google.com/file/d/1iPstyE3aempTRiC44wBeb5Q_nCfuDAfU/view?usp=sharing" image="story_content/url.png" title="PMF other checklists (Baseline Data, Targets, Data Sources and Data Collection)" />
-      <resource url="https://docs.google.com/document/d/e/2PACX-1vQQNqOpwdlorvlbYk1F6ntYYxbU1R73mF7wde7LpNL578Q5asvE0syMiRGmFpMvbAbWWRCrx1VphBIx/pub" image="story_content/url.png" title="Logic Model Terminology Equivalents" />
+      <resource url="https://drive.google.com/file/d/1iPstyE3aempTRiC44wBeb5Q_nCfuDAfU/view?usp=sharing" image="story_content/url.png" title="Baseline Data, Targets, Data Sources and Data Collection checklists" />
+      <resource url="https://drive.google.com/file/d/1DPVSAWkbw72lnT31_YUt8MKHXi9T6kCo/view?usp=sharing" image="story_content/url.png" title="Logic Model Terminology Equivalents" />
     </resources>
   </resource_data>
   <transcript_data>
@@ -3888,7 +3997,7 @@
           &lt;BulletPicture Size="0x0" /&gt;
         &lt;/ListStyle&gt;
       &lt;/Style&gt;
-      &lt;Span Text="When addressing gender equality and inclusion, &amp;quot;do no harm&amp;quot; is the first principle. You must identify and mitigate any potential risks to project participants. In many contexts, advocating for gender equality can put people at risk. It can also be unsafe or uncomfortable for people to be identified as LGBTQI or non-binary, even if your project seeks to foster a safe and supportive environment for self-identification."&gt;
+      &lt;Span Text="When addressing gender equality and inclusion, &amp;quot;do no harm&amp;quot; is the first principle. You must identify and mitigate any potential risks to project participants. In many contexts, advocating for gender equality can put people at risk. It can also be unsafe or uncomfortable for people to be identified as LGBTQIA2S, even if your project seeks to foster a safe and supportive environment for self-identification."&gt;
         &lt;Style BackgroundColor="#000000,00" /&gt;
       &lt;/Span&gt;
       &lt;Span Text="&amp;#xA;"&gt;
@@ -5351,7 +5460,7 @@
           &lt;BulletPicture Size="0x0" /&gt;
         &lt;/ListStyle&gt;
       &lt;/Style&gt;
-      &lt;Span Text="Remember: Think about and address any potential risks to project participants. For example, in many contexts it may not be safe or comfortable for people to be identified as LGBTQIA2S or non-binary. A safe and supportive environment for self-identification may be fostered, but ‘do no harm’ must always be the first principle. "&gt;
+      &lt;Span Text="Remember: Think about and address any potential risks to project participants. For example, in many contexts it may not be safe or comfortable for people to be identified as LGBTQIA2S. A safe and supportive environment for self-identification may be fostered, but ‘do no harm’ must always be the first principle. "&gt;
         &lt;Style FontIsItalic="False" /&gt;
       &lt;/Span&gt;
     &lt;/Block&gt;
@@ -5706,126 +5815,6 @@
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
       <slidetranscript slideid="5v2HzSgjNf6.6XHagILx28e" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="54">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
-  &lt;Content&gt;
-    &lt;Block&gt;
-      &lt;Style /&gt;
-      &lt;Span Text="Intro tab:&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style /&gt;
-      &lt;Span Text="&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Multiple" LineSpacing="23" SpacingBefore="6" SpacingAfter="9"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="Test your understanding of strong indicators with these 11 examples. &amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Multiple" LineSpacing="23" SpacingBefore="6" SpacingAfter="9"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="Do as many as you need!" /&gt;
-    &lt;/Block&gt;
-  &lt;/Content&gt;
-&lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="5v2HzSgjNf6.6CpbyfzHPLN" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="54">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
-  &lt;Content&gt;
-    &lt;Block&gt;
-      &lt;Style /&gt;
-      &lt;Span Text="Intro tab:&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style /&gt;
-      &lt;Span Text="&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Multiple" LineSpacing="23" SpacingBefore="6" SpacingAfter="9"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="Test your understanding of strong indicators with these 11 examples. &amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Multiple" LineSpacing="23" SpacingBefore="6" SpacingAfter="9"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="Do as many as you need!" /&gt;
-    &lt;/Block&gt;
-  &lt;/Content&gt;
-&lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="5v2HzSgjNf6.6Xgl73c5ekM" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="54">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
-  &lt;Content&gt;
-    &lt;Block&gt;
-      &lt;Style /&gt;
-      &lt;Span Text="Intro tab:&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style /&gt;
-      &lt;Span Text="&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Multiple" LineSpacing="23" SpacingBefore="6" SpacingAfter="9"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="Test your understanding of strong indicators with these 11 examples. &amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Multiple" LineSpacing="23" SpacingBefore="6" SpacingAfter="9"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="Do as many as you need!" /&gt;
-    &lt;/Block&gt;
-  &lt;/Content&gt;
-&lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="5v2HzSgjNf6.6gxyNKZodjB" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="54">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
-  &lt;Content&gt;
-    &lt;Block&gt;
-      &lt;Style /&gt;
-      &lt;Span Text="Intro tab:&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style /&gt;
-      &lt;Span Text="&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Multiple" LineSpacing="23" SpacingBefore="6" SpacingAfter="9"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="Test your understanding of strong indicators with these 11 examples. &amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Multiple" LineSpacing="23" SpacingBefore="6" SpacingAfter="9"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="Do as many as you need!" /&gt;
-    &lt;/Block&gt;
-  &lt;/Content&gt;
-&lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="5v2HzSgjNf6.63PgSnZkCtJ" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="54">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
-  &lt;Content&gt;
-    &lt;Block&gt;
-      &lt;Style /&gt;
-      &lt;Span Text="Intro tab:&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style /&gt;
-      &lt;Span Text="&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Multiple" LineSpacing="23" SpacingBefore="6" SpacingAfter="9"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="Test your understanding of strong indicators with these 11 examples. &amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Multiple" LineSpacing="23" SpacingBefore="6" SpacingAfter="9"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="Do as many as you need!" /&gt;
-    &lt;/Block&gt;
-  &lt;/Content&gt;
-&lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="5v2HzSgjNf6.5o2rDRNvl8H" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="54">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
@@ -6382,40 +6371,6 @@
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
       <slidetranscript slideid="5n73E4SyioZ.6gSeKRSGFqx" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="65">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
-  &lt;Content&gt;
-    &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="Sometimes, telling a specific story - for example, about an individual project participant or beneficiary - can help to make your results come alive. &amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="You may want to include narratives of this kind in your reporting to illustrate your results in a way that is more accessible. &amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Multiple" LineSpacing="23" SpacingBefore="6" SpacingAfter="9"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="You can also use stories like the one about Vithu in communication with the public, for example, on a webpage." /&gt;
-    &lt;/Block&gt;
-  &lt;/Content&gt;
-&lt;/Document&gt;</slidetranscript>
-      <slidetranscript slideid="5n73E4SyioZ.5fDlPhYDQtj" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="65">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style FlowDirection="LeftToRight" LeadingMargin="0" TrailingMargin="0" FirstLineMargin="0" Justification="Left" LineSpacingRule="Single" LineSpacing="20" SpacingBefore="0" SpacingAfter="0"&gt;
